@@ -17,7 +17,7 @@ This project implements two data structures that follow the Map Abstract Data Ty
 
 ## Implementation Details
 
-# BSTMap
+### BSTMap
 
 - Uses a self-balancing Binary Search Tree to store key-value pairs.
 
@@ -25,7 +25,7 @@ This project implements two data structures that follow the Map Abstract Data Ty
 
 - Performs insertions and lookups in O(log n) time complexity in balanced cases.
 
-# HashMap
+### HashMap
 
 - Uses Java's List (ArrayList) as the underlying storage structure.
 
